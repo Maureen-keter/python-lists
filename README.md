@@ -29,7 +29,7 @@ Final list:
 To run the script:
 
 ```bash
-python3 assignment.py
+python3 ls.py
 ```
 
 Ensure you are using **Python 3.x**.
